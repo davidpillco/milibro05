@@ -1,7 +1,7 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: Mi primer libro Jupyter
+title: Mi primer libro Jupyter con Actions Github.
 author: davidpillco
 logo: logo.png
 
